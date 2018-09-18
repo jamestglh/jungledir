@@ -1,2 +1,0 @@
-# jungledir
-jungle dl dir
